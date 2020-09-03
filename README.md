@@ -26,6 +26,6 @@
 <p align="center">
 <a href="https://twitter.com/mervenoyann" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mervenoyann" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/13198517" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13198517" height="30" width="30" /></a>
-<a href="https://kaggle.com/merveenoyan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="merveenoyan" height="30" width="30" /></a>
+<a href="https://kaggle.com/unofficialmerve" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="unofficialmerve" height="30" width="30" /></a>
 <a href="https://medium.com/@merveenoyan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@merveenoyan" height="30" width="30" /></a>
 </p>
