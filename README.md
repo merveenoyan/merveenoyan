@@ -16,6 +16,7 @@
 - 📫 How to reach me **merveenoyan@gmail.com**
 
 ### Blogs posts
+[![Merve Noyan](https://github-readme-medium.vercel.app/?username=merveenoyan)](https://medium.com/@merveenoyan)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
