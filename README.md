@@ -11,7 +11,7 @@
 
 - 📝 I regulary write articles on [https://medium.com/@merveenoyan](https://medium.com/@merveenoyan)
 
-- 💬 Ask me about **Tensorflow, Keras, Sklearn and Pandas**
+- 💬 Ask me about **Tensorflow, Keras, Data Science and NLP libraries**
 
 - 📫 How to reach me **merveenoyan@gmail.com**
 
