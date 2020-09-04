@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flask, OpenCV, PyTorch**
 
-- 🎥 I shoot tutorial videos and give live workshops at (see Playlists section) [https://www.youtube.com/channel/UC_76Qi-0_W81DD6sdYN7HRA/playlists?view_as=subscriber](https://www.youtube.com/channel/UC_76Qi-0_W81DD6sdYN7HRA/playlists?view_as=subscriber)
+- 🎥 I shoot tutorial videos and give live workshops at (see Playlists section) [YouTube](https://www.youtube.com/playlist?list=PL-gZN-RzY2q-hjuOfZCggDprM0UYPv_oI)
 
 - 📝 I regularly write articles on [https://medium.com/@merveenoyan](https://medium.com/@merveenoyan)
 
