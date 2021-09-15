@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Merve</h1>
-<h3 align="center">Data Scientist, Machine Learning Engineer, MSc Student and Google Developer Expert on Machine Learning</h3>
+<h3 align="center">Developer Advocate, Former Machine Learning Engineer, MSc Student and Google Developer Expert on Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merveenoyan" alt="merveenoyan" /> </p>
 
