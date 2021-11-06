@@ -14,7 +14,7 @@ I'm a 25 years old Machine Learning practitioner based in Istanbul. I'm pursuing
 - Natural Language Processing: Hugging Face (transformers, datasets), Rasa, spaCy, gensim, NLTK, Stanza
 - Machine Learning: TensorFlow, Scikit-learn, fast.ai
 - Data Science: Pandas, Numpy
-- Demo: Matplotlib, Seaborn, Bokeh, Gradio, Streamlit
+- Demo: Matplotlib, Seaborn, Bokeh
 - Misc Tools: TensorBoard, WandB, Comet, Gradio, Streamlit
 
 R Stack
