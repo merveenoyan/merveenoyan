@@ -11,9 +11,11 @@ I'm a 25 years old Machine Learning practitioner based in Istanbul. I'm pursuing
 ## 🔨 Stack 
 
 🐍 Python Stack
-- Natural Language Processing: Hugging Face (transformers, datasets), Rasa, spaCy, gensim, NLTK
-- Machine Learning: TensorFlow, Scikit-learn
-- Data Science: Pandas, Numpy, Matplotlib, Seaborn, Bokeh
+- Natural Language Processing: Hugging Face (transformers, datasets), Rasa, spaCy, gensim, NLTK, Stanza
+- Machine Learning: TensorFlow, Scikit-learn, fast.ai
+- Data Science: Pandas, Numpy
+- Demo: Matplotlib, Seaborn, Bokeh, Gradio, Streamlit
+- Misc Tools: TensorBoard, WandB, Comet, Gradio, Streamlit
 
 R Stack
 - Data Science: ggplot2, dplyr, tidyverse, tidytext
