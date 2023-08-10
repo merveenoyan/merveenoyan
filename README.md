@@ -1,4 +1,5 @@
-<img width="771" alt="Banner" src="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fa3ftzqi7ide71.png%3Fauto%3Dwebp%26s%3D7cc4389f7b7d621216c70cc9f1d43e57f76e3d0d">
+<img width="966" alt="Banner" src="https://github.com/merveenoyan/merveenoyan/assets/53175384/b87ab17f-03be-44b4-b5f1-eede2b33974b">
+
 
 <h1 align="center">Hi 👋, I'm Merve</h1>
 
