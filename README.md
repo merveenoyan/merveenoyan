@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Merve</h1>
 
 
-I'm a 27 years old Machine Learning practitioner based in ~~Istanbul~~ Paris. I'm pursuing my master's in Data Science while working as a developer advocate engineer at Hugging Face. Currently you'll find me doing open-source development, documentation for different libraries and more. I'm a Google Developer Expert in Machine Learning.
+I'm a 27 years old Machine Learning practitioner based in ~~Istanbul~~ Paris. I'm pursuing my master's in Data Science while working as a MLE in advocacy team at Hugging Face. Currently you'll find me doing open-source development, documentation for different libraries and more. I'm a Google Developer Expert in Machine Learning.
 
 ## 🔗 Let's Connect!
 <a href="https://twitter.com/mervenoyann" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
