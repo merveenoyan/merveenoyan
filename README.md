@@ -11,8 +11,11 @@ My [Hugging Face profile](https://huggingface.co/merve) has a lot of cool stuff 
 ▶️ [A walkthrough on zero-shot vision, papers, tools and more](https://www.youtube.com/watch?v=BnM-S50P_so)
 
 🔖 [Fine-tuning Florence-2 - Microsoft's Cutting-edge Vision Language Models](https://huggingface.co/blog/finetune-florence2)
+
 🔖 [Vision Language Models Explained](https://huggingface.co/blog/vlms)
+
 🔖 [PaliGemma – Google's Cutting-Edge Open Vision Language Model](https://huggingface.co/blog/paligemma)
+
 🔖 [Introduction to Quantization](https://huggingface.co/blog/merve/quantization)
 
 
