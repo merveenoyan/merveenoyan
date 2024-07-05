@@ -7,7 +7,9 @@ I build, write, showcase around zero-shot vision, multimodality, optimization an
 My [Hugging Face profile](https://huggingface.co/merve) has a lot of cool stuff and I also write blogs over there. 
 
 ▶️ [A walkthrough on multimodality, papers, tools and more](https://www.youtube.com/watch?v=IoGaGfU1CIg)
+
 ▶️ [A video on open-source LLMs, where to find them, how to eval and deploy](https://www.youtube.com/watch?v=e9gNEAlsOvU)
+
 ▶️ [A walkthrough on zero-shot vision, papers, tools and more](https://www.youtube.com/watch?v=BnM-S50P_so)
 
 🔖 [Fine-tuning Florence-2 - Microsoft's Cutting-edge Vision Language Models](https://huggingface.co/blog/finetune-florence2)
