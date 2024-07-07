@@ -3,8 +3,9 @@
 
 <h1 align="center">Hi 👋, I'm Merve</h1>
 
-I build, write, showcase around zero-shot vision, multimodality, optimization and more at Hugging Face (mostly transformers). Check out my pinned projects on GH.
-My [Hugging Face profile](https://huggingface.co/merve) has a lot of cool stuff and I also write blogs over there. 
+I build, write, showcase around zero-shot vision, multimodality, optimization and more (mostly transformers). 
+
+🤗 My [Hugging Face profile](https://huggingface.co/merve) has a lot of cool stuff and I also write blogs on everything cutting-edge over there. 
 
 🌱 [smol-vision: notebooks, scripts and more on various zero-shot vision/multimodal model optimizations](https://github.com/merveenoyan/smol-vision)
 
