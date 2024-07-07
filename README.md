@@ -6,11 +6,7 @@
 I build, write, showcase around zero-shot vision, multimodality, optimization and more at Hugging Face (mostly transformers). Check out my pinned projects on GH.
 My [Hugging Face profile](https://huggingface.co/merve) has a lot of cool stuff and I also write blogs over there. 
 
-▶️ [A walkthrough on multimodality, papers, tools and more](https://www.youtube.com/watch?v=IoGaGfU1CIg)
-
-▶️ [A video on open-source LLMs, where to find them, how to eval and deploy](https://www.youtube.com/watch?v=e9gNEAlsOvU)
-
-▶️ [A walkthrough on zero-shot vision, papers, tools and more](https://www.youtube.com/watch?v=BnM-S50P_so)
+🌱 [smol-vision: notebooks, scripts and more on various zero-shot vision/multimodal model optimizations](https://github.com/merveenoyan/smol-vision)
 
 🔖 [Fine-tuning Florence-2 - Microsoft's Cutting-edge Vision Language Models](https://huggingface.co/blog/finetune-florence2)
 
@@ -19,6 +15,12 @@ My [Hugging Face profile](https://huggingface.co/merve) has a lot of cool stuff 
 🔖 [PaliGemma – Google's Cutting-Edge Open Vision Language Model](https://huggingface.co/blog/paligemma)
 
 🔖 [Introduction to Quantization](https://huggingface.co/blog/merve/quantization)
+
+▶️ [A walkthrough on multimodality, papers, tools and more](https://www.youtube.com/watch?v=IoGaGfU1CIg)
+
+▶️ [A video on open-source LLMs, where to find them, how to eval and deploy](https://www.youtube.com/watch?v=e9gNEAlsOvU)
+
+▶️ [A walkthrough on zero-shot vision, papers, tools and more](https://www.youtube.com/watch?v=BnM-S50P_so)
 
 
 ## 🔗 Let's Connect!
