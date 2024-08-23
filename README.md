@@ -11,11 +11,11 @@ I build, write, showcase around zero-shot vision, multimodality, optimization an
 
 🔖 [Fine-tuning Florence-2 - Microsoft's Cutting-edge Vision Language Models](https://huggingface.co/blog/finetune-florence2)
 
-🔖 [Vision Language Models Explained](https://huggingface.co/blog/vlms)
+🔖 [Vision Language Models Explained](https://huggingface.co/blog/vlms)          🔖 [Autoencoders Visualized](https://merveenoyan.medium.com/complete-guide-on-deep-learning-architectures-part-2-autoencoders-293351bbe027)
 
 🔖 [PaliGemma – Google's Cutting-Edge Open Vision Language Model](https://huggingface.co/blog/paligemma)
 
-🔖 [Introduction to Quantization](https://huggingface.co/blog/merve/quantization)
+🔖 [Introduction to Quantization](https://huggingface.co/blog/merve/quantization)          🔖 [ConvNets Visualized](https://merveenoyan.medium.com/complete-guide-on-deep-learning-architectures-chapter-1-on-convnets-1d3e8086978d)
 
 ▶️ [A walkthrough on multimodality, papers, tools and more](https://www.youtube.com/watch?v=IoGaGfU1CIg)
 
