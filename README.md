@@ -1,4 +1,4 @@
-<img width="1024" alt="Banner" src="https://i.pinimg.com/originals/ff/e3/35/ffe3357756efc9d275d9bd299bf56339.jpg">
+<img width="1024" alt="Banner" src="https://i.pinimg.com/originals/96/ca/f5/96caf5cd0fb6f9d08a66c90d970847c7.gif">
 
 
 <h1 align="center">Hi 👋, I'm Merve</h1>
