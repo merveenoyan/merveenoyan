@@ -12,6 +12,7 @@ I build, write, showcase around zero-shot vision, multimodality, optimization an
 
 🤖 [smolagents: a lightweight library on agentic ML](https://github.com/huggingface/smolagents)
 
+Below are a couple of write-ups about some of the things I worked on at Hugging Face or illustrations of concepts related to ML ⬇️
 
 🔖 [SmolVLM - small vision LM](https://huggingface.co/blog/smolvlm)          🔖 [Even smaller SmolVLM - tiniest vision LM ever](https://huggingface.co/blog/smolervlm)
 
