@@ -1,4 +1,4 @@
-<img width="1024" alt="Banner" src="https://i.pinimg.com/originals/96/ca/f5/96caf5cd0fb6f9d08a66c90d970847c7.gif">
+<img width="512" alt="Banner" src="https://i.pinimg.com/originals/96/ca/f5/96caf5cd0fb6f9d08a66c90d970847c7.gif">
 
 
 <h1 align="center">Hi 👋, I'm Merve</h1>
@@ -8,18 +8,22 @@ I build, write, showcase around zero-shot vision, multimodality, optimization an
 🤗 My [Hugging Face profile](https://huggingface.co/merve) has a lot of cool stuff and I also write blogs on everything cutting-edge over there. 
 
 🌱 [smol-vision: notebooks, scripts and more on various zero-shot vision/multimodal model optimizations](https://github.com/merveenoyan/smol-vision)
+🤖 [smolagents: a lightweight library on agentic ML](https://github.com/huggingface/smolagents)
+
+
+🔖 [SmolVLM - small vision LM](https://huggingface.co/blog/smolvlm)          🔖 [Even smaller SmolVLM - tiniest vision LM ever](https://huggingface.co/blog/smolervlm)
+
+🔖 [Introducing smolagents](https://huggingface.co/blog/smolagents)          🔖 [Vision LMs in smolagents](https://huggingface.co/blog/smolagents-can-see)
 
 🔖 [Vision Language Models Explained](https://huggingface.co/blog/vlms)          🔖 [Autoencoders Visualized](https://merveenoyan.medium.com/complete-guide-on-deep-learning-architectures-part-2-autoencoders-293351bbe027)
 
 🔖 [Introduction to Quantization](https://huggingface.co/blog/merve/quantization)          🔖 [ConvNets Visualized](https://merveenoyan.medium.com/complete-guide-on-deep-learning-architectures-chapter-1-on-convnets-1d3e8086978d)
 
-🔖 [PaliGemma – Google's Cutting-Edge Open Vision Language Model](https://huggingface.co/blog/paligemma)
-
-🔖 [Fine-tuning Florence-2 - Microsoft's Cutting-edge Vision Language Models](https://huggingface.co/blog/finetune-florence2)
+🔖 [PaliGemma – Google's Cutting-Edge Open Vision Language Model](https://huggingface.co/blog/paligemma) and [PaliGemma 2](https://huggingface.co/blog/paligemma2)
 
 ▶️ [A walkthrough on multimodality, papers, tools and more](https://www.youtube.com/watch?v=IoGaGfU1CIg)
 
-▶️ [A video on open-source LLMs, where to find them, how to eval and deploy](https://www.youtube.com/watch?v=e9gNEAlsOvU)
+▶️ [Keynote: open-source LLMs, where to find them, how to eval and deploy](https://www.youtube.com/watch?v=-Mv1KGr2FKs)
 
 ▶️ [A walkthrough on zero-shot vision, papers, tools and more](https://www.youtube.com/watch?v=BnM-S50P_so)
 
