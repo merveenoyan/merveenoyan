@@ -9,6 +9,7 @@ I build, write, showcase around zero-shot vision, multimodality, optimization an
 🤗 My [Hugging Face profile](https://huggingface.co/merve) has a lot of cool stuff and I also write blogs on everything cutting-edge over there. 
 
 🌱 [smol-vision: notebooks, scripts and more on various zero-shot vision/multimodal model optimizations](https://github.com/merveenoyan/smol-vision)
+
 🤖 [smolagents: a lightweight library on agentic ML](https://github.com/huggingface/smolagents)
 
 
