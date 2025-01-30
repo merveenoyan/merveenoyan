@@ -1,4 +1,5 @@
-<img width="512" alt="Banner" src="https://i.pinimg.com/originals/96/ca/f5/96caf5cd0fb6f9d08a66c90d970847c7.gif">
+<img width="1024" alt="Banner" src="![image](https://github.com/user-attachments/assets/be25f12a-0746-415a-b910-8a60af4167c7)">
+
 
 
 <h1 align="center">Hi 👋, I'm Merve</h1>
